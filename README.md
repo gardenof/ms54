@@ -15,4 +15,4 @@ This is what happened.
 PlayList File
 ====
 MS54.m3u
-I play it VLCv
+I play it VLC
