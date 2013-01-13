@@ -1,4 +1,4 @@
-![logo](https://github.https://raw.github.com/gardenof/ms54/master/ms54.jpg)International Departures Podcast with Myon & Shane 54
+![logo](https://raw.github.com/gardenof/ms54/master/ms54.jpg)International Departures Podcast with Myon & Shane 54
 ====
 By Myon & Shane 54
 
