@@ -13,6 +13,6 @@ This is what happened.
 
 How To Use
 ====
-Run make_playlist.rb it will create a playlist
+Run make_playlist.rb, it will create a playlist
 file called MS54.m3u.
 
